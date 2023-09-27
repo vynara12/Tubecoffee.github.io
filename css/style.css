@@ -1,0 +1,151 @@
+#body{
+    margin: 0;
+	padding: 0;
+	background-color:#f1f0f0;
+	background-size: 100%;
+	font-family: black;
+	font-size: 14px;
+	color: #c24343c2;
+   background-color: rgb(225, 223, 220);
+
+}
+.logo{
+    padding:5px;
+    padding-left: 50px;
+    color:red(21, 20, 20);
+    
+   
+}
+
+	#baby ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        background-color: #f1f1f1;
+    }
+    #baby ul li{
+        display: inline-block;
+        padding: 8px 16px;
+      
+    }
+
+    #baby li a {
+        color: #000;
+        padding: 8px 16 px;
+        text-decoration: none;
+    }
+    
+    #baby li a:hover{
+        background-color: #555;
+        color: white;
+
+    }
+
+.home img{
+    width:70%;
+    height: 70%;
+}
+.menu {
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.menu div{
+    float: left;
+    padding: 10px;
+    width: 140px;
+    text-align: center;
+    margin: 10px 12px;
+
+}
+.menu img{
+   
+		width: 180px;
+		height: 180px;
+      
+	}
+    .menu .menu_img:hover {
+        background-color: #f1f0f0;
+    }
+
+.color{
+    color: black;
+    text-indent: 50px;
+}
+.location {
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.location div{
+    float: left;
+    padding: 10px;
+    width: 140px;
+    text-align: center;
+    margin: 10px 12px;
+}
+
+.location img{
+		width: 250%;
+		height: 250%;      
+}
+.banana {
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.banana div{
+    float: left;
+    padding: 10px;
+    width: 140px;
+    text-align: center;
+    margin: 10px 12px;
+
+}
+.banana img{
+   
+		width: 300px;
+		height: 250px;
+      
+	}
+.h2{
+    color: rgb(244, 184, 93);
+    text-align: center;
+}
+.cover{
+    padding: 10px;
+    color: rgb(58, 51, 43);
+    text-align: center;
+}
+.boot{
+    padding: 10px;
+    color: rgb(58, 51, 43);
+}
+.indent{
+    text-indent: 50px;
+    color: black;
+    
+}
+.hello{
+    text-indent: 50px;
+    color: black;
+    
+}
+.thank img{
+    width: 350px;
+    height: 350px;
+}
+
+
+
